@@ -1,4 +1,3 @@
-```markdown
 <h1 align="center">Hi 👋, I'm Anas</h1>
 
 <h3 align="center">
@@ -301,4 +300,4 @@ Helping students learn Data Science while building AI-powered applications.
 ---
 
 ⭐ If you like my work, consider giving a ⭐ to my repositories!
-```
+
