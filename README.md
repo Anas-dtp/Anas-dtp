@@ -250,16 +250,6 @@ Helping students learn Data Science while building AI-powered applications.
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Anas-dtp&theme=tokyonight&margin-w=15"/>
-
-</p>
-
----
-
 # 📈 Contribution Graph
 
 <p align="center">
